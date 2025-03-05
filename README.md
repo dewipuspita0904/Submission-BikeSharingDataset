@@ -39,14 +39,14 @@ submission/
 ├───data/
 │   ├───day.csv                  # Dataset harian
 │   └───hour.csv                 # Dataset per jam
-├───Proyek Analisis Data.ipynb   # Notebook analisis data
+├───notebook.ipynb               # Notebook analisis data
 ├───README.md                    # Panduan menjalankan proyek
 ├───requirements.txt             # Daftar library yang digunakan
 └───url.txt                      # Tautan untuk dashboard
 ```
 
 ## 🌍 Tautan ke Dashboard
-[Check the dashboard](https://submission-bikesharingdataset.streamlit.app/)
+[Check the dashboard](https://submission-bikesharing-dataset.streamlit.app/)
 
 ## 👤 Kontributor
 **Nama Anda** – [LinkedIn](https://www.linkedin.com/in/dewi-puspita-241517272/)
