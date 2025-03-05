@@ -45,13 +45,6 @@ submission/
 └───url.txt                      # Tautan untuk dashboard
 ```
 
-## 🌍 Deployment (Opsional)
-Jika ingin mendepoy ke Streamlit Cloud:
-1. Push kode ke repository GitHub.
-2. Buka [Streamlit Cloud](https://share.streamlit.io/) dan buat aplikasi baru.
-3. Hubungkan ke repository, pilih `dashboard/dashboard.py` sebagai entry point.
-4. Setelah proses selesai, salin link dan tambahkan ke file `url.txt`.
-
 ## 👤 Kontributor
 **Nama Anda** – [LinkedIn](https://www.linkedin.com/in/dewi-puspita-241517272/)
 
