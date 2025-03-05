@@ -35,13 +35,14 @@ Setelah dijalankan, dashboard akan terbuka secara otomatis di browser.
 ```
 submission/
 ├───dashboard/
-│   └───dashboard.py     # Kode utama untuk dashboard
+│   └───dashboard.py             # Kode utama untuk dashboard
 ├───data/
-│   ├───day.csv          # Dataset harian
-│   └───hour.csv         # Dataset per jam
-├───notebook.ipynb       # Notebook analisis data
-├───requirements.txt     # Daftar library yang digunakan
-└───README.md            # Panduan menjalankan proyek
+│   ├───day.csv                  # Dataset harian
+│   └───hour.csv                 # Dataset per jam
+├───Proyek Analisis Data.ipynb   # Notebook analisis data
+├───README.md                    # Panduan menjalankan proyek
+├───requirements.txt             # Daftar library yang digunakan
+└───url.txt                      # Tautan untuk dashboard
 ```
 
 ## 🌍 Deployment (Opsional)
