@@ -46,7 +46,7 @@ submission/
 ```
 
 ## 🌍 Tautan ke Dashboard
-[Check the dashboard](https://submission-bikesharing-dataset.streamlit.app/)
+[Check the dashboard](https://submission-bikesharingdataset.streamlit.app/)
 
 ## 👤 Kontributor
 **Nama Anda** – [LinkedIn](https://www.linkedin.com/in/dewi-puspita-241517272/)
