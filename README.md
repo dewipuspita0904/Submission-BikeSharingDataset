@@ -45,6 +45,9 @@ submission/
 └───url.txt                      # Tautan untuk dashboard
 ```
 
+## 🌍 Tautan ke Dashboard
+(https://submission-bikesharingdataset.streamlit.app/)
+
 ## 👤 Kontributor
 **Nama Anda** – [LinkedIn](https://www.linkedin.com/in/dewi-puspita-241517272/)
 
